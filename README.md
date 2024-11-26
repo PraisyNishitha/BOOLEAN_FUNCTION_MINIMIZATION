@@ -50,7 +50,8 @@ Developed by:praisynithisha RegisterNumber:*/
 
 
 **Timing Diagram**
-![Uploading Screenshot 2024-11-25 230214.png…]()
+![Screenshot 2024-11-25 230214](https://github.com/user-attachments/assets/65909bf4-e682-44f2-ae98-6f1ff1f9bb6c)
+
 
 
 **Result:**
